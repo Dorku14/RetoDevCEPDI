@@ -1,5 +1,6 @@
 # RetoDevCEPDI
 Reto tecnico
+Para el usuario y contraseña se debe usar una de las que trae el archivo Usuario.txt
 
 Para el alta de registros se debe hacer clic en el botón "Alta" y se mostrará un formulario que se deberá llenar, todos los campos son obligatorios, luego de llenar los campos es necesario hacer click en "Agregar Registro"(botón a la derecha).
 
