@@ -1,0 +1,12 @@
+C:\Users\Desarollos\source\repos\RetoDev\RetoDev\bin\Debug\RetoDev.exe.config
+C:\Users\Desarollos\source\repos\RetoDev\RetoDev\bin\Debug\RetoDev.exe
+C:\Users\Desarollos\source\repos\RetoDev\RetoDev\bin\Debug\RetoDev.pdb
+C:\Users\Desarollos\source\repos\RetoDev\RetoDev\obj\Debug\RetoDev.csproj.AssemblyReference.cache
+C:\Users\Desarollos\source\repos\RetoDev\RetoDev\obj\Debug\RetoDev.csproj.SuggestedBindingRedirects.cache
+C:\Users\Desarollos\source\repos\RetoDev\RetoDev\obj\Debug\RetoDev.Properties.Resources.resources
+C:\Users\Desarollos\source\repos\RetoDev\RetoDev\obj\Debug\RetoDev.csproj.GenerateResource.cache
+C:\Users\Desarollos\source\repos\RetoDev\RetoDev\obj\Debug\RetoDev.csproj.CoreCompileInputs.cache
+C:\Users\Desarollos\source\repos\RetoDev\RetoDev\obj\Debug\RetoDev.exe
+C:\Users\Desarollos\source\repos\RetoDev\RetoDev\obj\Debug\RetoDev.pdb
+C:\Users\Desarollos\source\repos\RetoDev\RetoDev\obj\Debug\RetoDev.Interfaz.resources
+C:\Users\Desarollos\source\repos\RetoDev\RetoDev\obj\Debug\RetoDev.Login.resources
