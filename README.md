@@ -1,11 +1,13 @@
-# RetoDevCEPDI
-Reto tecnico
-Para el usuario y contraseña se debe usar una de las que trae el archivo Usuario.txt
+Project for a pharmacy.
 
-Para el alta de registros se debe hacer clic en el botón "Alta" y se mostrará un formulario que se deberá llenar, todos los campos son obligatorios, luego de llenar los campos es necesario hacer click en "Agregar Registro"(botón a la derecha).
+For the user and password you must use one of the ones included in the file User.txt.
 
-Para modificar registros solo se debe seleccionar una celda que desea editar y posterior hacer click en "Editar", se desplegará un formulario con los campos llenos de la información de ese registro. cuando haya terminado con los cambios se deberá hacer click en "Actualizar" (botón a la derecha).
+To add records, click on the "Add" button and a form will be displayed, all fields are mandatory, after filling in the fields you need to click on "Add Record" (button on the right).
 
-Para eliminar registros solo se debe seleccionar una celda de la fila que se desea eliminar, posterior hacer click en eliminar, se mostrará un cuadro de confirmación y al aceptar el registro se elimina tanto de la tabla como del archivo.
+To modify records you only have to select a cell you want to edit and then click on "Edit", a form will be displayed with the fields filled with the information of that record. When you have finished with the changes you must click on "Update" (button on the right).
 
-para cambiar de página se debe hacer click en "Siguiente" y para regresar en "Anterior".
+To delete records just select a cell of the row you want to delete, then click on delete, a confirmation box will appear and when you accept the record is deleted from both the table and the file.
+
+To change page click on "Next" and to return click on "Previous".
+
+Translated with www.DeepL.com/Translator (free version)
